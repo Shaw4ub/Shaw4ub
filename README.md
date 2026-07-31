@@ -1,4 +1,4 @@
-## Hola, soy Shaw4ub pero prefiero Shaw 👋
+## Hola, soy Shaw4ub 👋
 
 **Estudiante de 4º año de Ingeniería en Desarrollo de Software**
 Apasionado por la arquitectura de Software, las bases de datos y el desarrollo backend.
